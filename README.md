@@ -1,22 +1,22 @@
-# OIBSIP Internship Projects
+OIBSIP Landing Page 🌐
+This is a visually appealing Landing Page built as part of the Oasis Infobyte Internship. It serves as an introduction to my portfolio and provides a smooth user experience for visitors to navigate through my work.
 
-Welcome! This repository contains my internship tasks for **Oasis Infobyte Web Development Internship - April Phase 1**.
+🚀 Features
+Clean, minimalist design
 
-## 🌐 Projects Completed
+A clear call-to-action button
 
-1. **Landing Page**
-2. **Portfolio Website**
-3. **Temperature Converter Website**
+Fully responsive layout for mobile and desktop devices
 
-## 🚀 Technologies Used
-- HTML5
-- CSS3
-- JavaScript
-- Git & GitHub
+Link to the main portfolio website
 
-## 📸 Preview
-> Screenshots or a live demo link (if available) can go here.
+🛠 Technologies Used
+HTML5
 
-## 🔧 How to Run Locally
-1. Clone the repo:
-https://github.com/Nagaraj335/OIBSIP
+CSS3
+
+Git & GitHub
+
+💻 How to Run Locally
+Clone the repository:
+git clone https://github.com/Nagaraj335/OIBSIP-Landing-page.git
